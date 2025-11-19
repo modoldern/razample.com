@@ -1,0 +1,23 @@
+{
+    "email": {
+        "type": "email",
+        "label": "el-fosta",
+        "value": "gumbatovraznakhan@gmail.com",
+        "display": "<span class='latin'>gumbatovraznakhan@gmail.com</span>",
+        "icon": "mail"
+    },
+    "linkedin": {
+        "type": "link",
+        "label": "linkdini",
+        "value": "https://www.linkedin.com/in/raznakhan-gumbatov-b5b12899",
+        "display": "<span class='latin'>Raznakhan Gumbatov</span>",
+        "icon": "linkedin"
+    },
+    "phone": {
+        "type": "phone",
+        "label": "telefoni",
+        "value": "+995555363606",
+        "display": "+995 555 36 36 06",
+        "icon": "phone"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "email": {
+        "type": "email",
+        "label": "Email",
+        "value": "gumbatovraznakhan@gmail.com",
+        "display": "gumbatovraznakhan@gmail.com",
+        "icon": "mail"
+    },
+    "linkedin": {
+        "type": "link",
+        "label": "LinkedIn",
+        "value": "https://www.linkedin.com/in/raznakhan-gumbatov-b5b12899",
+        "display": "Raznakhan Gumbatov",
+        "icon": "linkedin"
+    },
+    "phone": {
+        "type": "phone",
+        "label": "Phone",
+        "value": "+995555363606",
+        "display": "+995 555 36 36 06",
+        "icon": "phone"
+    }
+}
